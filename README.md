@@ -79,11 +79,10 @@
 
 <br />
 </div>
-
 <br />
 
 ### Join My Servers:
-[<img align="left" alt="Luke McCann | LinkedIn" style="padding: 5px;" width="22px" src="./assets/images/valheim.jpg" />][valheim]
+[<img align="left" alt="Valheim" style="padding: 5px;" width="22px" src="./assets/images/valheim.jpg" />][valheim]
 
 <br />
 <br />
