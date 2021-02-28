@@ -1,5 +1,5 @@
 
-<div style="text-align:center">
+<div align="center">
 
 ![lukemccann](./assets/images/LukeMcCann.gif)
 </div>
@@ -180,9 +180,11 @@
 <br />
 
 <hr>
-<div style="text-align:center">
+<div align="center">
 
-[![Luke's GitHub stats](https://github-readme-stats-eight-sand.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)]
+<br />
+
+![Luke's GitHub stats](https://github-readme-stats-eight-sand.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)
 
 </div>
 
