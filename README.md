@@ -83,6 +83,8 @@
 
 ### Languages & Frameworks: 
 
+<div align="center">
+
 <img align="left" alt="PHP" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/php.png" />
 
 <img align="left" alt="Laravel" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/laravel.png" />
@@ -99,6 +101,7 @@
 
 <img align="left" alt="Cpp" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/cpp.png" />
 
+<br />
 <br />
 <br />
 
@@ -118,10 +121,16 @@
 
 <img align="left" alt="Pwsh" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/powershell.png" />
 
+</div>
+
+<br />
 <br />
 <br />
 
 ### Tools: 
+
+<div align="center">
+
 <img align="left" alt="Visual Studio Code" width="26px" style="padding: 10px;" src="./assets/images/vscode.png" />
 
 <img align="left" alt="Visual Studio" width="23px" style="padding: 10px;" src="./assets/images/vs.png" />
@@ -157,6 +166,8 @@
 <img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
+
+</div>
 
 <br />
 <br />
