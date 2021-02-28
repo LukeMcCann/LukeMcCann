@@ -103,7 +103,7 @@
 <br />
 <br />
 
-<img align="left" alt="HTML5" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/html5.png" />
+<img align="left" alt="HTML5" width="26px" style="padding: 5px 10px 10px 10px;" src="./assets/images/html5.png" />
 
 <img align="left" alt="Bootstrap" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bootstrap.png" />
 
@@ -144,7 +144,7 @@
 <br />
 <br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/gruntjs.png" />
+<img align="left" alt="Grunt.js" width="20px" style="padding: 5px 10px 10px 10px;" src="./assets/images/gruntjs.png" />
 
 <img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
 
