@@ -16,5 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          ref: master
           COMMIT_MSG: 'Update Git Activity'
           MAX_LINES: 10
