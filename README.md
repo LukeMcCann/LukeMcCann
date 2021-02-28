@@ -186,17 +186,18 @@
 </div>
 
 <br />
-<hr> 
 
 <details>
 
-<summary> ⚡ GitHub Activity</summary>
+<summary> ⚡ Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
 </details>
+
+<hr> 
 
 [website]: https://planetdebug.tech
 [linkedin]: https://www.linkedin.com/in/lukemccann-engineering/
