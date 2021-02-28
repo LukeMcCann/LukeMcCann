@@ -185,6 +185,19 @@
 
 </div>
 
+<br />
+<hr> 
+
+<details>
+
+<summary> ⚡ GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 [website]: https://planetdebug.tech
 [linkedin]: https://www.linkedin.com/in/lukemccann-engineering/
 [steam]: https://steamcommunity.com/id/Developer-LukeMcCann/
