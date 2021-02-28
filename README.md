@@ -65,10 +65,24 @@
 
 </details>
 
+<hr>
 
 ### Listening To 🎧
 
 [![Spotify](https://novatorem-code-of-the-crescent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+<details>
+    <summary>🎶 Recently Played</summary>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=newtonmccann&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+</details>
+
+<hr>
 
 ### Connect with me:
 
