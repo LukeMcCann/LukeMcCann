@@ -32,8 +32,8 @@
 - <details>
     <summary>2015 - 2020 | The University of Huddersfield 🎓</summary>
 
-    - MEng Software Engineering | 1st
-    - Bsc Software Engineering | 1st (Hons)
+    - MEng Software Engineering | 1st 📜
+    - Bsc Software Engineering | 1st (Hons) 📜
 
 </details>
 
