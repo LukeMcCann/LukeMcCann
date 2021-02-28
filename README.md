@@ -66,8 +66,6 @@
 </details>
 
 
-<br />
-
 ### Listening To 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LukeMcCann Spotify Playing" width="350" />](https://open.spotify.com/user/newtonmccann)
