@@ -81,6 +81,51 @@
 </div>
 <br />
 
+### Languages & Frameworks: 
+
+<img align="left" alt="PHP" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+
+<img align="left" alt="Laravel" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+
+<img align="left" alt="JavaScript" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="React" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Java" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+<img align="left" alt="Csharp" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
+<img align="left" alt="Python" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Cpp" width="26px" style="padding: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+
+<br />
+<br />
+<br />
+
+<img align="left" alt="HTML5" width="26px" style="padding: 0 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="Bootstrap" width="26px" style="padding: 0 10px 10px 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
+<img align="left" alt="CSS3" width="26px" style="padding: 0 10px 10px 10px;;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="Sass" width="26px" style="padding: 0 10px 10px 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" alt="SQL" width="26px" style="padding: 0 10px 10px 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Markdown" width="26px" style="padding: 0 10px 10px 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+
+<br />
+<br />
+<br />
+
+### Tools: 
+<img align="left" alt="Visual Studio Code" width="26px" style="padding: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+<br />
+<br />
+
 ### Join My Servers:
 [<img align="left" alt="Valheim" style="padding: 5px;" width="22px" src="./assets/images/valheim.jpg" />][valheim]
 
@@ -90,7 +135,7 @@
 <hr>
 <div style="text-align:center">
 
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Luke's GitHub stats](https://github-readme-stats-eight-sand.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)]
 
 </div>
 
