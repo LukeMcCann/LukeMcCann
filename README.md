@@ -67,7 +67,6 @@
 
 
 <br />
-<br />
 
 ### Listening To 🎧
 
@@ -75,15 +74,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="planetdebug.tech" style="padding: 5px;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="planetdebug.tech" style="padding: 5px;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Luke McCann | LinkedIn" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Luke McCann | Steam" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+<!-- [<img align="left" alt="Luke McCann | Discord" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
 
 <br />
 </div>
 
 <br />
-<hr>
+
+### Join My Servers:
+[<img align="left" alt="Luke McCann | LinkedIn" style="padding: 5px;" width="22px" src="./assets/images/valheim.jpg" />][valheim]
+
 <br />
+<br />
+
+<hr>
 <div style="text-align:center">
 
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -92,3 +99,6 @@
 
 [website]: https://planetdebug.tech
 [linkedin]: https://www.linkedin.com/in/lukemccann-engineering/
+[steam]: https://steamcommunity.com/id/Developer-LukeMcCann/
+
+[valheim]: https://server.nitrado.net/eng/toplist/view/8020761
