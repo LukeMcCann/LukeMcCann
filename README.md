@@ -83,27 +83,27 @@
 
 ### Languages & Frameworks: 
 
-<img align="left" alt="PHP" width="26px" style="padding: 10px;"  src="./assets/images/php.png" />
+<img align="left" alt="PHP" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/php.png" />
 
-<img align="left" alt="Laravel" width="26px" style="padding: 10px;"  src="./assets/images/laravel.png" />
+<img align="left" alt="Laravel" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/laravel.png" />
 
-<img align="left" alt="JavaScript" width="26px" style="padding: 10px;"  src="./assets/images/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/javascript.png" />
 
-<img align="left" alt="React" width="26px" style="padding: 10px;"  src="./assets/images/react.png" />
+<img align="left" alt="React" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/react.png" />
 
-<img align="left" alt="Java" width="18px" style="padding: 10px;"  src="./assets/images/java.png" />
+<img align="left" alt="Java" width="18px" style="padding: 10px 10px 0;"  src="./assets/images/java.png" />
 
-<img align="left" alt="Python" width="26px" style="padding: 10px;"  src="./assets/images/python.png" />
+<img align="left" alt="Python" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/python.png" />
 
-<img align="left" alt="Csharp" width="26px" style="padding: 10px;"  src="./assets/images/csharp.png" />
+<img align="left" alt="Csharp" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/csharp.png" />
 
-<img align="left" alt="Cpp" width="26px" style="padding: 10px;"  src="./assets/images/cpp.png" />
+<img align="left" alt="Cpp" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/cpp.png" />
 
 <br />
 <br />
 <br />
 
-<img align="left" alt="HTML5" width="26px" style="padding: 5px 10px 10px 10px;" src="./assets/images/html5.png" />
+<img align="left" alt="HTML5" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/html5.png" />
 
 <img align="left" alt="Bootstrap" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bootstrap.png" />
 
@@ -144,7 +144,7 @@
 <br />
 <br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 5px 10px 10px 10px;" src="./assets/images/gruntjs.png" />
+<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/gruntjs.png" />
 
 <img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
 
