@@ -103,7 +103,6 @@
 
 <br />
 <br />
-<br />
 
 <img align="left" alt="HTML5" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/html5.png" />
 
@@ -123,7 +122,6 @@
 
 </div>
 
-<br />
 <br />
 <br />
 
