@@ -68,7 +68,7 @@
 
 ### Listening To 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LukeMcCann Spotify Playing" width="350" />](https://open.spotify.com/user/newtonmccann)
+[![Spotify](https://novatorem-code-of-the-crescent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Connect with me:
 
@@ -189,7 +189,7 @@
 
 <details>
 
-<summary> ⚡ Recent Activity</summary>
+<summary> ⚡ GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
