@@ -203,7 +203,7 @@
 
 <details>
 
-<summary> ⚡ GitHub Activity</summary>
+<summary> ⚡ Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 
