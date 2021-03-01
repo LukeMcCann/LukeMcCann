@@ -51,7 +51,7 @@
     - Backend Developer 🐘
 
 - <details>
-    <summary>2017 - 2017 | European University Institute 🌎</summary>
+    <summary>2017 - 2018 | European University Institute 🌎</summary>
 
     - Technical Support Officer ⚙
 
