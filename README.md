@@ -162,7 +162,7 @@
 <br />
 <br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/gruntjs.png" />
+<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
 
 <img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
 
@@ -177,6 +177,19 @@
 <img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
+
+</div>
+
+<br />
+<br />
+
+### Engines:
+
+<div align="center">
+
+<img align="left" alt="Unity" width="40px" style="padding: 0 2px 10px 10px;" src="assets/images/unity.png"/>
+
+<img align="left" alt="Unreal" width="40px" style="padding: 0 10px 2px 10px;" src="./assets/images/unreal.png"/>
 
 </div>
 
