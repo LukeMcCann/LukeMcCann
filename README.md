@@ -162,7 +162,7 @@
 <br />
 <br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/gruntjs.png" />
+<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
 
 <img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
 
@@ -181,9 +181,9 @@
 <br />
 <br />
 
-<img align="left" alt="Unity" width="30px" style="padding: 0 10px 10px 10px;" src="assets/images/unity.png"/>
+<img align="left" alt="Unity" width="30px" style="padding: 0 2px 10px 10px;" src="assets/images/unity.png"/>
 
-<img align="left" alt="Unreal" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/unreal.png"/>
+<img align="left" alt="Unreal" width="20px" style="padding: 0 10px 2px 10px;" src="./assets/images/unreal.png"/>
 
 </div>
 
