@@ -187,7 +187,7 @@
 
 <div align="center">
 
-<img align="left" alt="Unity" width="35px" style="padding: 0 2px 10px 10px;" src="assets/images/unity.png"/>
+<img align="left" alt="Unity" width="40px" style="padding: 0 2px 10px 10px;" src="assets/images/unity.png"/>
 
 <img align="left" alt="Unreal" width="25px" style="padding: 0 10px 2px 10px;" src="./assets/images/unreal.png"/>
 
