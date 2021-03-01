@@ -161,7 +161,6 @@
 
 <br />
 <br />
-<br />
 
 <img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 10px;" src="./assets/images/gruntjs.png" />
 
