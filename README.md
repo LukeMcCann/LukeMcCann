@@ -178,12 +178,12 @@
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
 
-<!-- Changes Added -->
-
 <br />
 <br />
 
-<img align="left" alt="Gitlab" width="30px" style="padding: 0 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
+<img align="left" alt="Unity" width="30px" style="padding: 0 10px 10px 10px;" src="assets/images/unity.png"/>
+
+<img align="left" alt="Unreal" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/unreal.png"/>
 
 </div>
 
