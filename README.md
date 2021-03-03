@@ -151,9 +151,9 @@
 
 <img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
 
-<img align="left" alt="Postman" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/postman.png"/>
+<img align="left" alt="Postman" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/postman.png"/>
 
-<img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 5px;" src="./assets/images/yarn.png"/>
+<img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/yarn.png"/>
 
 <br />
 <br />
