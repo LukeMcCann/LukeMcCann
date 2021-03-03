@@ -178,6 +178,12 @@
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
 
+
+<br /> 
+<br /> 
+
+<img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
+
 </div>
 
 <br />
