@@ -126,6 +126,10 @@
 
 <img align="left" alt="Sass" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/sass.png" />
 
+<img align="left" alt="Prolog" width="35px" style="padding: 0 10px 10px 10px; margin-bottom: 10px;"  src="./assets/images/prolog.png" />
+
+<img align="left" alt="RDF" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/rdf.png" />
+
 <img align="left" alt="SQL" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/sql.png" />
 
 <img align="left" alt="Markdown" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/markdown.png" />
@@ -183,6 +187,8 @@
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
 
 <img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
+
+<img align="left" alt="Weka" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/weka.png"/>
 
 <img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
