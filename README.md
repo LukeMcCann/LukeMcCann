@@ -186,7 +186,7 @@
 
 <img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
-<img align="left" alt="Pwsh" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/powershell.png" />
+<img align="left" alt="Pwsh" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/pwsh2.png" />
 
 </div>
 
