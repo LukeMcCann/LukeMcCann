@@ -195,6 +195,7 @@
 
 <br />
 <br />
+<hr> 
 
 ### Join My Servers:
 [<img align="left" alt="Valheim" style="padding: 5px;" width="30px" src="./assets/images/valheim.jpg" />][valheim]
