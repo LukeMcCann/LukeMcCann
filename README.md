@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=newtonmccann&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=newtonmccann&cover_image=true&theme=default)]
 
 </div>
 
@@ -130,10 +130,6 @@
 
 <img align="left" alt="Markdown" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/markdown.png" />
 
-<img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash.png" />
-
-<img align="left" alt="Pwsh" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/powershell.png" />
-
 </div>
 
 <br />
@@ -142,6 +138,25 @@
 ### Tools: 
 
 <div align="center">
+
+<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
+
+<img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
+
+<img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
+
+<img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
+
+<img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
+
+<img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
+
+<img align="left" alt="Postman" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/postman.png"/>
+
+<img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/yarn.png"/>
+
+<br />
+<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" style="padding: 10px;" src="./assets/images/vscode.png" />
 
@@ -159,24 +174,17 @@
 
 <img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
 
-<br />
-<br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
-
-<img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
-
-<img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
-
-<img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
-
-<img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
-
-<img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
+<br /> 
+<br /> 
 
 <img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
+
+<img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
+
+<img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
 </div>
 
@@ -195,6 +203,7 @@
 
 <br />
 <br />
+<hr> 
 
 ### Join My Servers:
 [<img align="left" alt="Valheim" style="padding: 5px;" width="30px" src="./assets/images/valheim.jpg" />][valheim]
