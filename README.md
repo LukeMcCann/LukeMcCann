@@ -139,6 +139,25 @@
 
 <div align="center">
 
+<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
+
+<img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
+
+<img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
+
+<img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
+
+<img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
+
+<img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
+
+<img align="left" alt="Postman" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/postman.png"/>
+
+<img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
+
+<br />
+<br />
+
 <img align="left" alt="Visual Studio Code" width="26px" style="padding: 10px;" src="./assets/images/vscode.png" />
 
 <img align="left" alt="Visual Studio" width="23px" style="padding: 10px;" src="./assets/images/vs.png" />
@@ -155,30 +174,11 @@
 
 <img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
 
-<br />
-<br />
 
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
-
-<img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
-
-<img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
-
-<img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
-
-<img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
-
-<img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
-
-<img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
+<br /> 
+<br /> 
 
 <img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
-
-
-<br /> 
-<br /> 
-
-<img align="left" alt="Postman" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/postman.png"/>
 
 <img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
 
