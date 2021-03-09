@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=newtonmccann&cover_image=true&theme=default)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=newtonmccann&cover_image=true&theme=default)
 
 </div>
 
