@@ -192,6 +192,8 @@
 
 <img align="left" alt="Postman" width="32px" style="padding: 5px 7px 10px 2px;" src="./assets/images/postman.png"/>
 
+<img align="left" alt="Sqitch" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/sqitch.png" />
+
 <img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
 </div>
