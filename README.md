@@ -149,7 +149,7 @@
 
 <img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
 
-<img align="left" alt="Kubernetes" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/kubernetes.png"/>
+<img align="left" alt="Kubernetes" width="25px" style="padding: 0 2px 10px 2px;" src="./assets/images/kubernetes.png"/>
 
 <img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
 
