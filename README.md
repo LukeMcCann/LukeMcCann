@@ -149,13 +149,13 @@
 
 <img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
 
+<img align="left" alt="Kubernetes" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/kubernetes.png"/>
+
 <img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
 
 <img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
 
 <img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
-
-<img align="left" alt="Postman" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/postman.png"/>
 
 <img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/yarn.png"/>
 
@@ -189,6 +189,8 @@
 <img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
 
 <img align="left" alt="Weka" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/weka.png"/>
+
+<img align="left" alt="Postman" width="30px" style="padding: 0 2px 10px 2px;" src="./assets/images/postman.png"/>
 
 <img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
