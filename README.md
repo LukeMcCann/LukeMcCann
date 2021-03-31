@@ -151,13 +151,13 @@
 
 <img align="left" alt="Kubernetes" width="25px" style="padding: 0 2px 10px 2px;" src="./assets/images/kubernetes.png"/>
 
+<img align="left" alt="Mongo" width="32px" style="padding: 0 0 0 0;" src="./assets/images/mongo.png"/>
+
 <img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
 
 <img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
 
 <img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
-
-<img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/yarn.png"/>
 
 <br />
 <br />
@@ -174,7 +174,7 @@
 
 <img align="left" alt="DataGrip" width="26px" style="padding: 10px;" src="./assets/images/datagrip.png"/>
 
-<img align="left" alt="PHPMyAdmin" width="26px" style="padding: 10px;" src="./assets/images/phpmyadmin.png"/>
+<img align="left" alt="Yarn" width="26px" style="padding: 10px;" src="./assets/images/yarn.png"/>
 
 <img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
 
