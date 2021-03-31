@@ -157,7 +157,7 @@
 
 <img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
 
-<img align="left" alt="Yarn" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/yarn.png"/>
+<img align="left" alt="Mongo" width="26px" style="padding: 0 10px 10px 3px;" src="./assets/images/mongo.png"/>
 
 <br />
 <br />
@@ -174,7 +174,7 @@
 
 <img align="left" alt="DataGrip" width="26px" style="padding: 10px;" src="./assets/images/datagrip.png"/>
 
-<img align="left" alt="PHPMyAdmin" width="26px" style="padding: 10px;" src="./assets/images/phpmyadmin.png"/>
+<img align="left" alt="Yarn" width="26px" style="padding: 10px;" src="./assets/images/yarn.png"/>
 
 <img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
 
