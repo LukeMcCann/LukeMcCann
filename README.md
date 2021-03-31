@@ -182,17 +182,17 @@
 <br /> 
 <br /> 
 
-<img align="left" alt="Gitbash" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/git.png"/>
+<img align="left" alt="Gitbash" width="26px" style="padding: 0 5px 10px 10px;" src="./assets/images/git.png"/>
 
-<img align="left" alt="Gitlab" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
+<img align="left" alt="Gitlab" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
 
-<img align="left" alt="Protege" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
+<img align="left" alt="Protege" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
 
-<img align="left" alt="Weka" width="30px" style="padding: 0 5px 10px 2px;" src="./assets/images/weka.png"/>
+<img align="left" alt="Weka" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/weka.png"/>
 
-<img align="left" alt="Postman" width="32px" style="padding: 5px 7px 10px 2px;" src="./assets/images/postman.png"/>
+<img align="left" alt="Postman" width="26px" style="padding: 5px 7px 10px 2px;" src="./assets/images/postman.png"/>
 
-<img align="left" alt="Sqitch" width="50px" style="padding: 25px 10px 5px 10px;"  src="./assets/images/sqitch_1.png" />
+<img align="left" alt="Sqitch" width="26px" style="padding: 25px 10px 5px 10px;"  src="./assets/images/sqitch_1.png" />
 
 <img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
