@@ -174,9 +174,9 @@
 
 <img align="left" alt="DataGrip" width="26px" style="padding: 10px;" src="./assets/images/datagrip.png"/>
 
-<img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
-
 <img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
+
+<img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
 
 
 <br /> 
