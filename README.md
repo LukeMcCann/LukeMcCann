@@ -22,7 +22,7 @@
 - 📚 I am an avid reader, mostly Non-Fiction & Fantasy Novels
 - 🎮 I am both a PC & Console Gamer
 - 🎲 I also enjoy card and board games
-- 📺 I occassionally watch anime to relax
+- 🎥 I enjoy watching movies with friends
 
 </details>
 
