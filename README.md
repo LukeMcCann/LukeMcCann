@@ -14,7 +14,7 @@
 - ⚙ Looking for cool projects to join! 😎
 
 <details>
-    <summary><a href="https://github.com/LukeMcCann/Documents/blob/master/CVs/MEng_LukeMcCann_SoftwareEngineer_CV%20-%2008-09-2021.pdf">CV</a></summary>
+    <summary><a href="https://lukemccann.github.io/Documents/">CV</a></summary>
 </details>
 
 <details>
