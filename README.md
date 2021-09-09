@@ -14,6 +14,10 @@
 - ⚙ Looking for cool projects to join! 😎
 
 <details>
+    <summary><a href="https://github.com/LukeMcCann/Documents/blob/master/CVs/MEng_LukeMcCann_SoftwareEngineer_CV%20-%2008-09-2021.pdf">CV</a></summary>
+</details>
+
+<details>
     <summary>Additional Interests</summary>
 
 - 🎸 I love playing my guitars (6, 7, & 8 Strings)
