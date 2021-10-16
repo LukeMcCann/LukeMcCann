@@ -52,6 +52,7 @@
 - <details>
     <summary>2020 - Present | Connex One 👨🏻‍💻</summary>
 
+    - Fullstack Developer ⚛
     - Backend Developer 🐘
 
 - <details>
