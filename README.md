@@ -67,6 +67,22 @@
     - MINTED Frontend Developer ♨
 
 </details>
+    
+<details>
+    <summary>Awards</summary>
+
+- <details>
+    <summary>TicketMaster Award</summary>
+
+    - Issued: 17th December 2021
+    - Issuer: Connex One
+    
+    - <details>
+        <summary> <a href="">View</a></summary>
+
+        <img src="./assets/images/lukemccann_2021-12-17_TicketMaster_Award.jpg" alt="drawing" width="200" />
+
+</details>
 
 </details>
 
