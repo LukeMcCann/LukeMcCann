@@ -78,7 +78,7 @@
     - Issuer: Connex One
     
     - <details>
-        <summary> <a href="">View</a></summary>
+        <summary> <a href="https://github.com/LukeMcCann">View</a></summary>
 
         <img src="./assets/images/lukemccann_2021-12-17_TicketMaster_Award.jpg" alt="drawing" width="200" />
 
