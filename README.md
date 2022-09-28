@@ -13,9 +13,11 @@
 - 👨🏻‍🔬 I Love to blend my interests into my projects
 - ⚙ Looking for cool projects to join! 😎
 
+<!--
 <details>
     <summary><a href="https://lukemccann.github.io/Documents/">CV</a></summary>
 </details>
+-->
 
 <details>
     <summary>Additional Interests</summary>
