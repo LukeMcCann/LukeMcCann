@@ -47,7 +47,7 @@
     <summary>Professional Experience</summary>
 
 - <details>
-    <summary>2021 - Present | DDR-Digital 👨🏻‍💻</summary>
+    <summary>2021 - March 2022 | DDR-Digital 👨🏻‍💻</summary>
 
     - Fullstack Developer 📚
 
