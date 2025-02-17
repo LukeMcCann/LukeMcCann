@@ -9,9 +9,8 @@
 
 - 👨🏻‍💻 Working towards becoming a well-rounded Developer!
 - 🌱 Upon a [continuous learning adventure](https://blue-eyes-frontend-dragon.github.io/Knowledge-Resume/) 🛫
-- 🧼 Passionate about code cleanliness 😅
+- 🧼 Passionate about code cleanliness
 - 👨🏻‍🔬 I Love to blend my interests into my projects
-- ⚙ Looking for cool projects to join! 😎
 
 <!--
 <details>
