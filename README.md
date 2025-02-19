@@ -21,13 +21,11 @@
 <details>
     <summary>Additional Interests</summary>
 
-- 🎸 I love playing my guitars (6, 7, & 8 Strings)
-- 🌑 I have a keen interest in Physics & Quantum Mechanics
-- 🏋🏻‍♂️ I enjoy Weight Lifting & Running, among other activities 💪🏻
-- 📚 I am an avid reader, mostly Non-Fiction & Fantasy Novels
-- 🎮 I am both a PC & Console Gamer
-- 🎲 I also enjoy card and board games
-- 🎥 I enjoy watching movies with friends
+- 🎸 I play extended range guitar
+- 🌑 I have a keen interest in Physics & Engineering
+- 🏋🏻‍♂️ I keep fit through Weight Lifting
+- 📚 I am an avid reader (mostly Historic)
+- 🎮 I enjoy gaming, including tabletop
 
 </details>
 
