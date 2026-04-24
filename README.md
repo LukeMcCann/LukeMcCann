@@ -29,10 +29,10 @@
 
 </details>
 
-<details>
+<details open>
     <summary>Formal Education</summary>
 
-- <details>
+- <details open>
     <summary>2015 - 2020 | The University of Huddersfield 🎓</summary>
 
     - MEng Software Engineering | 1st 📜
@@ -40,10 +40,10 @@
 
 </details>
 
-<details>
+<details open>
     <summary>Professional Experience</summary>
 
-- <details>
+- <details open>
     <summary>2026 - Present | Cloudguard 🛡️</summary>
 
     - Software Architect 🏗️
