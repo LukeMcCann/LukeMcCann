@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead+%40+Cloudguard_;%3E+Code+Cleanup+Specialist_)](https://git.io/typing-svg)
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=LukeMcCann.LukeMcCann&style=for-the-badge&color=00FF41)
+![Profile views](https://hits.sh/github.com/LukeMcCann.svg?style=for-the-badge&label=VISITORS&color=0A0A0A&labelColor=0A0A0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=AEEBFF)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-0A0A0A?style=for-the-badge&logo=steam&logoColor=AEEBFF)][steam]
 
