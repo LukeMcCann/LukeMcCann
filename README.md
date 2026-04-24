@@ -264,6 +264,14 @@
 
 <div align="center">
 
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LukeMcCann&bg_color=0D1117&color=AEEBFF&line=AEEBFF&point=AEEBFF&area=true&area_color=AEEBFF&hide_border=true)
+
+</div>
+
+<br />
+
+<div align="center">
+
 ![snake animation](https://raw.githubusercontent.com/LukeMcCann/LukeMcCann/output/github-contribution-grid-snake.svg)
 
 </div>
