@@ -142,6 +142,12 @@
 
 <hr>
 
+### Listening To 🎧
+
+[![Spotify](https://novatorem-code-of-the-crescent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+<hr>
+
 ### `~/stack`
 
 #### Languages & Frameworks
