@@ -114,103 +114,103 @@
 ### Languages & Frameworks
 
 <p align="left">
-  <img alt="PHP" height="40" src="./assets/images/php.png" />
-  <img alt="Laravel" height="40" src="./assets/images/laravel.png" />
-  <img alt="TypeScript" height="40" src="./assets/images/typescript.png" />
-  <img alt="JavaScript" height="40" src="./assets/images/javascript.png" />
-  <img alt="React" height="40" src="./assets/images/react.png" />
-  <img alt="Java" height="40" src="./assets/images/java.png" />
-  <img alt="Python" height="40" src="./assets/images/python.png" />
-  <img alt="C#" height="40" src="./assets/images/csharp.png" />
-  <img alt="C++" height="40" src="./assets/images/cpp.png" />
+  <img alt="PHP" height="32" hspace="6" src="./assets/images/php.png" />
+  <img alt="Laravel" height="32" hspace="6" src="./assets/images/laravel.png" />
+  <img alt="TypeScript" height="32" hspace="6" src="./assets/images/typescript.png" />
+  <img alt="JavaScript" height="32" hspace="6" src="./assets/images/javascript.png" />
+  <img alt="React" height="32" hspace="6" src="./assets/images/react.png" />
+  <img alt="Java" height="32" hspace="6" src="./assets/images/java.png" />
+  <img alt="Python" height="32" hspace="6" src="./assets/images/python.png" />
+  <img alt="C#" height="32" hspace="6" src="./assets/images/csharp.png" />
+  <img alt="C++" height="32" hspace="6" src="./assets/images/cpp.png" />
 </p>
 
 <p align="left">
-  <img alt="HTML5" height="40" src="./assets/images/html5.png" />
-  <img alt="CSS3" height="40" src="./assets/images/css.png" />
-  <img alt="Material UI" height="40" src="./assets/images/icons8-material-ui-48.png" />
-  <img alt="Sass" height="40" src="./assets/images/sass.png" />
-  <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png" />
-  <img alt="Prolog" height="40" src="./assets/images/prolog.png" />
-  <img alt="RDF" height="40" src="./assets/images/rdf.png" />
-  <img alt="SQL" height="40" src="./assets/images/sql.png" />
-  <img alt="Markdown" height="40" src="./assets/images/markdown.png" />
+  <img alt="HTML5" height="32" hspace="6" src="./assets/images/html5.png" />
+  <img alt="CSS3" height="32" hspace="6" src="./assets/images/css.png" />
+  <img alt="Material UI" height="32" hspace="6" src="./assets/images/icons8-material-ui-48.png" />
+  <img alt="Sass" height="32" hspace="6" src="./assets/images/sass.png" />
+  <img alt="Bootstrap" height="32" hspace="6" src="./assets/images/bootstrap.png" />
+  <img alt="Prolog" height="32" hspace="6" src="./assets/images/prolog.png" />
+  <img alt="RDF" height="32" hspace="6" src="./assets/images/rdf.png" />
+  <img alt="SQL" height="32" hspace="6" src="./assets/images/sql.png" />
+  <img alt="Markdown" height="32" hspace="6" src="./assets/images/markdown.png" />
 </p>
 
 <p align="left">
-  <img alt="OpenAPI" height="40" src="./assets/images/OpenAPI_Pantone-300x80.png" />
+  <img alt="OpenAPI" height="32" hspace="6" src="./assets/images/OpenAPI_Pantone-300x80.png" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img alt="Node.js" height="40" src="./assets/images/nodejs.png" />
-  <img alt="Grunt.js" height="40" src="./assets/images/gruntjs.png" />
-  <img alt="Yarn" height="40" src="./assets/images/yarn.png" />
-  <img alt="Docker" height="40" src="./assets/images/docker.png" />
-  <img alt="Kubernetes" height="40" src="./assets/images/kubernetes.png" />
+  <img alt="Node.js" height="32" hspace="6" src="./assets/images/nodejs.png" />
+  <img alt="Grunt.js" height="32" hspace="6" src="./assets/images/gruntjs.png" />
+  <img alt="Yarn" height="32" hspace="6" src="./assets/images/yarn.png" />
+  <img alt="Docker" height="32" hspace="6" src="./assets/images/docker.png" />
+  <img alt="Kubernetes" height="32" hspace="6" src="./assets/images/kubernetes.png" />
 </p>
 
 <p align="left">
-  <img alt="MongoDB" height="40" src="./assets/images/mongo.png" />
-  <img alt="Postgres" height="40" src="./assets/images/postgres.png" />
-  <img alt="MySQL" height="40" src="./assets/images/mysql.png" />
-  <img alt="MariaDB" height="40" src="./assets/images/mariadb.png" />
-  <img alt="Sqitch" height="40" src="./assets/images/sqitch_1.png" />
+  <img alt="MongoDB" height="32" hspace="6" src="./assets/images/mongo.png" />
+  <img alt="Postgres" height="32" hspace="6" src="./assets/images/postgres.png" />
+  <img alt="MySQL" height="32" hspace="6" src="./assets/images/mysql.png" />
+  <img alt="MariaDB" height="32" hspace="6" src="./assets/images/mariadb.png" />
+  <img alt="Sqitch" height="32" hspace="6" src="./assets/images/sqitch_1.png" />
 </p>
 
 <p align="left">
-  <img alt="Visual Studio Code" height="40" src="./assets/images/vscode.png" />
-  <img alt="Visual Studio" height="40" src="./assets/images/vs.png" />
-  <img alt="IntelliJ IDEA" height="40" src="./assets/images/intellij.png" />
-  <img alt="PHPStorm" height="40" src="./assets/images/phpstorm.png" />
-  <img alt="PyCharm" height="40" src="./assets/images/pycharm.png" />
-  <img alt="DataGrip" height="40" src="./assets/images/datagrip.png" />
+  <img alt="Visual Studio Code" height="32" hspace="6" src="./assets/images/vscode.png" />
+  <img alt="Visual Studio" height="32" hspace="6" src="./assets/images/vs.png" />
+  <img alt="IntelliJ IDEA" height="32" hspace="6" src="./assets/images/intellij.png" />
+  <img alt="PHPStorm" height="32" hspace="6" src="./assets/images/phpstorm.png" />
+  <img alt="PyCharm" height="32" hspace="6" src="./assets/images/pycharm.png" />
+  <img alt="DataGrip" height="32" hspace="6" src="./assets/images/datagrip.png" />
 </p>
 
 <p align="left">
-  <img alt="Git" height="40" src="./assets/images/git.png" />
-  <img alt="GitLab" height="40" src="./assets/images/gitlab.png" />
-  <img alt="Bash" height="40" src="./assets/images/bash2.png" />
-  <img alt="Postman" height="40" src="./assets/images/postman.png" />
-  <img alt="Protégé" height="40" src="./assets/images/protege.png" />
-  <img alt="Weka" height="40" src="./assets/images/weka.png" />
+  <img alt="Git" height="32" hspace="6" src="./assets/images/git.png" />
+  <img alt="GitLab" height="32" hspace="6" src="./assets/images/gitlab.png" />
+  <img alt="Bash" height="32" hspace="6" src="./assets/images/bash2.png" />
+  <img alt="Postman" height="32" hspace="6" src="./assets/images/postman.png" />
+  <img alt="Protégé" height="32" hspace="6" src="./assets/images/protege.png" />
+  <img alt="Weka" height="32" hspace="6" src="./assets/images/weka.png" />
 </p>
 
 <p align="left">
-  <img alt="DBeaver" height="40" src="./assets/images/dbeaver.png" />
-  <img alt="Jupyter" height="40" src="./assets/images/jupyter.png" />
+  <img alt="DBeaver" height="32" hspace="6" src="./assets/images/dbeaver.png" />
+  <img alt="Jupyter" height="32" hspace="6" src="./assets/images/jupyter.png" />
 </p>
 
 ### Cloud Platforms
 
 <p align="left">
-  <img alt="AWS" height="40" src="./assets/images/AWS.png" />
-  <img alt="Azure" height="40" src="./assets/images/Azure.png" />
+  <img alt="AWS" height="32" hspace="6" src="./assets/images/AWS.png" />
+  <img alt="Azure" height="32" hspace="6" src="./assets/images/Azure.png" />
 </p>
 
 ### Operating Systems
 
 <p align="left">
-  <img alt="Arch Linux" height="40" src="./assets/images/archlinux_logo_icon_167835.ico" />
-  <img alt="Ubuntu" height="40" src="./assets/images/ubuntu.png" />
-  <img alt="Raspberry Pi OS" height="40" src="./assets/images/pi.png" />
-  <img alt="Windows" height="40" src="./assets/images/windows.png" />
+  <img alt="Arch Linux" height="32" hspace="6" src="./assets/images/archlinux_logo_icon_167835.ico" />
+  <img alt="Ubuntu" height="32" hspace="6" src="./assets/images/ubuntu.png" />
+  <img alt="Raspberry Pi OS" height="32" hspace="6" src="./assets/images/pi.png" />
+  <img alt="Windows" height="32" hspace="6" src="./assets/images/windows.png" />
 </p>
 
 ### AI Tools
 
 <p align="left">
-  <img alt="Claude" height="40" src="./assets/images/claude-color.png" />
-  <img alt="Gemini" height="40" src="./assets/images/gemini-color.png" />
-  <img alt="ChatGPT" height="40" src="./assets/images/chatgpt-50.png" />
+  <img alt="Claude" height="32" hspace="6" src="./assets/images/claude-color.png" />
+  <img alt="Gemini" height="32" hspace="6" src="./assets/images/gemini-color.png" />
+  <img alt="ChatGPT" height="32" hspace="6" src="./assets/images/chatgpt-50.png" />
 </p>
 
 ### Engines
 
 <p align="left">
-  <img alt="Unity" height="48" src="./assets/images/unity.png" />
-  <img alt="Unreal" height="48" src="./assets/images/unreal.png" />
+  <img alt="Unity" height="32" hspace="6" src="./assets/images/unity.png" />
+  <img alt="Unreal" height="32" hspace="6" src="./assets/images/unreal.png" />
 </p>
 
 <br />
