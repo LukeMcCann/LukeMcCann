@@ -109,133 +109,110 @@
 <!-- [<img align="left" alt="Luke McCann | Discord" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
 
 <br />
-</div>
 <br />
 
-### Languages & Frameworks: 
+### Languages & Frameworks
 
-<div align="center">
+<p align="left">
+  <img alt="PHP" height="40" src="./assets/images/php.png" />
+  <img alt="Laravel" height="40" src="./assets/images/laravel.png" />
+  <img alt="TypeScript" height="40" src="./assets/images/typescript.png" />
+  <img alt="JavaScript" height="40" src="./assets/images/javascript.png" />
+  <img alt="React" height="40" src="./assets/images/react.png" />
+  <img alt="Java" height="40" src="./assets/images/java.png" />
+  <img alt="Python" height="40" src="./assets/images/python.png" />
+  <img alt="C#" height="40" src="./assets/images/csharp.png" />
+  <img alt="C++" height="40" src="./assets/images/cpp.png" />
+</p>
 
-<img align="left" alt="PHP" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/php.png" />
+<p align="left">
+  <img alt="HTML5" height="40" src="./assets/images/html5.png" />
+  <img alt="CSS3" height="40" src="./assets/images/css.png" />
+  <img alt="Material UI" height="40" src="./assets/images/icons8-material-ui-48.png" />
+  <img alt="Sass" height="40" src="./assets/images/sass.png" />
+  <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png" />
+  <img alt="Prolog" height="40" src="./assets/images/prolog.png" />
+  <img alt="RDF" height="40" src="./assets/images/rdf.png" />
+  <img alt="SQL" height="40" src="./assets/images/sql.png" />
+  <img alt="Markdown" height="40" src="./assets/images/markdown.png" />
+</p>
 
-<img align="left" alt="Laravel" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/laravel.png" />
+<p align="left">
+  <img alt="OpenAPI" height="40" src="./assets/images/OpenAPI_Pantone-300x80.png" />
+</p>
 
-<img align="left" alt="JavaScript" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/javascript.png" />
+### Tools
 
-<img align="left" alt="React" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/react.png" />
+<p align="left">
+  <img alt="Node.js" height="40" src="./assets/images/nodejs.png" />
+  <img alt="Grunt.js" height="40" src="./assets/images/gruntjs.png" />
+  <img alt="Yarn" height="40" src="./assets/images/yarn.png" />
+  <img alt="Docker" height="40" src="./assets/images/docker.png" />
+  <img alt="Kubernetes" height="40" src="./assets/images/kubernetes.png" />
+</p>
 
-<img align="left" alt="Java" width="18px" style="padding: 10px 10px 0;"  src="./assets/images/java.png" />
+<p align="left">
+  <img alt="MongoDB" height="40" src="./assets/images/mongo.png" />
+  <img alt="Postgres" height="40" src="./assets/images/postgres.png" />
+  <img alt="MySQL" height="40" src="./assets/images/mysql.png" />
+  <img alt="MariaDB" height="40" src="./assets/images/mariadb.png" />
+  <img alt="Sqitch" height="40" src="./assets/images/sqitch_1.png" />
+</p>
 
-<img align="left" alt="Python" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/python.png" />
+<p align="left">
+  <img alt="Visual Studio Code" height="40" src="./assets/images/vscode.png" />
+  <img alt="Visual Studio" height="40" src="./assets/images/vs.png" />
+  <img alt="IntelliJ IDEA" height="40" src="./assets/images/intellij.png" />
+  <img alt="PHPStorm" height="40" src="./assets/images/phpstorm.png" />
+  <img alt="PyCharm" height="40" src="./assets/images/pycharm.png" />
+  <img alt="DataGrip" height="40" src="./assets/images/datagrip.png" />
+</p>
 
-<img align="left" alt="Csharp" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/csharp.png" />
+<p align="left">
+  <img alt="Git" height="40" src="./assets/images/git.png" />
+  <img alt="GitLab" height="40" src="./assets/images/gitlab.png" />
+  <img alt="Bash" height="40" src="./assets/images/bash2.png" />
+  <img alt="Postman" height="40" src="./assets/images/postman.png" />
+  <img alt="Protégé" height="40" src="./assets/images/protege.png" />
+  <img alt="Weka" height="40" src="./assets/images/weka.png" />
+</p>
 
-<img align="left" alt="Cpp" width="26px" style="padding: 10px 10px 0;"  src="./assets/images/cpp.png" />
+<p align="left">
+  <img alt="DBeaver" height="40" src="./assets/images/dbeaver.png" />
+  <img alt="Jupyter" height="40" src="./assets/images/jupyter.png" />
+</p>
 
-<br />
-<br />
+### Cloud Platforms
 
-<img align="left" alt="HTML5" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/html5.png" />
+<p align="left">
+  <img alt="AWS" height="40" src="./assets/images/AWS.png" />
+  <img alt="Azure" height="40" src="./assets/images/Azure.png" />
+</p>
 
-<img align="left" alt="Bootstrap" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bootstrap.png" />
+### Operating Systems
 
-<img align="left" alt="CSS3" width="26px" style="padding: 0 10px 10px 10px;;" src="./assets/images/css.png" />
+<p align="left">
+  <img alt="Arch Linux" height="40" src="./assets/images/archlinux_logo_icon_167835.ico" />
+  <img alt="Ubuntu" height="40" src="./assets/images/ubuntu.png" />
+  <img alt="Raspberry Pi OS" height="40" src="./assets/images/pi.png" />
+  <img alt="Windows" height="40" src="./assets/images/windows.png" />
+</p>
 
-<img align="left" alt="Sass" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/sass.png" />
+### AI Tools
 
-<img align="left" alt="Prolog" width="35px" style="padding: 0 10px 10px 10px; margin-bottom: 10px;"  src="./assets/images/prolog.png" />
+<p align="left">
+  <img alt="Claude" height="40" src="./assets/images/claude-color.png" />
+  <img alt="Gemini" height="40" src="./assets/images/gemini-color.png" />
+  <img alt="ChatGPT" height="40" src="./assets/images/chatgpt-50.png" />
+</p>
 
-<img align="left" alt="RDF" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/rdf.png" />
+### Engines
 
-<img align="left" alt="SQL" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/sql.png" />
+<p align="left">
+  <img alt="Unity" height="48" src="./assets/images/unity.png" />
+  <img alt="Unreal" height="48" src="./assets/images/unreal.png" />
+</p>
 
-<img align="left" alt="Markdown" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/markdown.png" />
-
-</div>
-
-<br />
-<br />
-
-### Tools: 
-
-<div align="center">
-
-<img align="left" alt="Grunt.js" width="20px" style="padding: 0 10px 10px 5px;" src="./assets/images/gruntjs.png" />
-
-<img align="left" alt="Node.js" width="26px" style="padding: 0 10px 10px 10px;" src="./assets/images/nodejs.png"/>
-
-<img align="left" alt="Docker" width="32px" style="padding: 0 10px 10px 10px;" src="./assets/images/docker.png"/>
-
-<img align="left" alt="Kubernetes" width="25px" style="padding: 0 2px 10px 2px;" src="./assets/images/kubernetes.png"/>
-
-<img align="left" alt="Mongo" width="25px" style="padding: 0 0 0 0;" src="./assets/images/mongo.png"/>
-
-<img align="left" alt="Postgres" width="30px" style="padding: 0 10px 10px 10px;" src="./assets/images/postgres.png"/>
-
-<img align="left" alt="MYSQL" width="30px" style="padding: 0 10px 2px 10px;" src="./assets/images/mysql.png"/>
-
-<img align="left" alt="MariaDB" width="26px" style="padding: 10px 10px 10px 4px;" src="./assets/images/mariadb.png"/>
-
-<br />
-<br />
-
-<img align="left" alt="Visual Studio Code" width="26px" style="padding: 10px;" src="./assets/images/vscode.png" />
-
-<img align="left" alt="Visual Studio" width="23px" style="padding: 10px;" src="./assets/images/vs.png" />
-
-<img align="left" alt="PHPStorm" width="26px" style="padding: 10px;" src="./assets/images/phpstorm.png"/>
-
-<img align="left" alt="IntelliJ IDEA" width="26px" style="padding: 10px;" src="./assets/images/intellij.png"/>
-
-<img align="left" alt="Pycharm" width="26px" style="padding: 10px;" src="./assets/images/pycharm.png"/>
-
-<img align="left" alt="DataGrip" width="26px" style="padding: 10px;" src="./assets/images/datagrip.png"/>
-
-<img align="left" alt="Yarn" width="26px" style="padding: 10px;" src="./assets/images/yarn.png"/>
-
-<img align="left" alt="Jupyter Notebooks" width="26px" style="padding: 10px;" src="./assets/images/jupyter.png"/>
-
-
-<br /> 
-<br /> 
-
-<img align="left" alt="Gitbash" width="26px" style="padding: 0 5px 10px 10px;" src="./assets/images/git.png"/>
-
-<img align="left" alt="Gitlab" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/gitlab.png"/>
-
-<img align="left" alt="Protege" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/protege.png"/>
-
-<img align="left" alt="Weka" width="26px" style="padding: 0 5px 10px 2px;" src="./assets/images/weka.png"/>
-
-<img align="left" alt="Postman" width="26px" style="padding: 5px 7px 10px 2px;" src="./assets/images/postman.png"/>
-
-<img align="left" alt="Sqitch" width="26px" style="padding: 25px 10px 5px 10px;"  src="./assets/images/sqitch_1.png" />
-
-<img align="left" alt="Bash" width="26px" style="padding: 0 10px 10px 10px;"  src="./assets/images/bash2.png" />
-
-</div>
-
-<br />
-<br />
-
-### Engines:
-
-<div align="center">
-
-<img align="left" alt="Unity" width="40px" style="padding: 0 2px 10px 10px;" src="assets/images/unity.png"/>
-
-<img align="left" alt="Unreal" width="40px" style="padding: 0 10px 2px 10px;" src="./assets/images/unreal.png"/>
-
-</div>
-
-<br />
-<br />
-<hr> 
-
-### Join My Servers:
-[<img align="left" alt="Valheim" style="padding: 5px;" width="30px" src="./assets/images/valheim.jpg" />][valheim]
-
-<br />
 <br />
 
 <hr>
