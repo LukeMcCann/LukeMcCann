@@ -1,22 +1,43 @@
-
 <div align="center">
 
-![lukemccann](./assets/images/LukeMcCann.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=50&lines=%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead+%40+Cloudguard_;%3E+Code+Cleanup+Specialist_;%3E+Arch+Linux_)](https://git.io/typing-svg)
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=LukeMcCann.LukeMcCann&style=for-the-badge&color=00FF41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41)][linkedin]
+[![Steam](https://img.shields.io/badge/Steam-0A0A0A?style=for-the-badge&logo=steam&logoColor=00FF41)][steam]
+
 </div>
 
-### About Me
+```bash
+                    -`                    luke@victorytechnology
+                   .o+`                   ─────────────────────────────────────────
+                  `ooo/                   role     : Software Architect @ Cloudguard
+                 `+oooo:                  focus    : Fullstack systems · Code quality · Team lead
+                `+oooooo:                 stack    : TypeScript · React · PHP · Python · Java
+                -+oooooo+:                data     : PostgreSQL · MongoDB · MariaDB
+              `/:-:++oooo+:               cloud    : AWS · Azure · Docker · Kubernetes
+             `/++++/+++++++:              os       : Arch Linux
+            `/++++++++++++++:             shell    : bash · zsh · tmux
+           `/+++ooooooooooooo/`           editor   : Neovim
+          ./ooosssso++osssssso+`          notes    : Obsidian
+         .oossssso-````/ossssss+`         status   : actively shipping
+        -osssssso.      :ssssssso.
+       :osssssss/        osssso+++.       $ whoami --verbose
+      /ossssssss/        +ssssooo/-       > Architecting fullstack systems & leading dev teams.
+    `/ossssso+/:-        -:/+osssso+-     > Obsessing over clean code, sharp boundaries, and shipping.
+   `+sso+:-`                 `.-/+oso:    > Continuously learning — currently deep in Systems Engineering.
+  `++:.                           `-/+/
+  .`                                 `/
+```
+
 <hr>
 
-- 👨🏻‍💻 Working towards becoming a well-rounded Developer!
-- 🌱 Upon a [continuous learning adventure](https://blue-eyes-frontend-dragon.github.io/Knowledge-Resume/) 🛫
-- 🧼 Passionate about code cleanliness
-- 👨🏻‍🔬 I Love to blend my interests into my projects
+### `~/about`
 
-<!--
-<details>
-    <summary><a href="https://lukemccann.github.io/Documents/">CV</a></summary>
-</details>
--->
+- Software Architect & Senior Fullstack Developer @ **Cloudguard** — leading a development team and shipping production systems.
+- 1st-class **MEng Software Engineering** + 1st-class **BSc (Hons) Software Engineering** — University of Huddersfield.
+- On a [continuous learning adventure](https://blue-eyes-frontend-dragon.github.io/Knowledge-Resume/) — the journey doesn't stop at "senior".
+- Passionate about code cleanliness, clean architecture, and blending interests into projects.
 
 <details>
     <summary>Additional Interests</summary>
@@ -32,86 +53,97 @@
 <details open>
     <summary>Formal Education</summary>
 
-- <details open>
+<ul>
+<li>
+<details open>
     <summary>2015 - 2020 | The University of Huddersfield 🎓</summary>
 
-    - MEng Software Engineering | 1st 📜
-    - Bsc Software Engineering | 1st (Hons) 📜
+- MEng Software Engineering | 1st 📜
+- BSc Software Engineering | 1st (Hons) 📜
+
+</details>
+</li>
+</ul>
 
 </details>
 
 <details open>
     <summary>Professional Experience</summary>
 
-- <details open>
+<ul>
+<li>
+<details open>
     <summary>2026 - Present | Cloudguard 🛡️</summary>
 
-    - Software Architect 🏗️
-    - Senior Fullstack Developer 📚
-    - Team Lead (Development) 👤
-    - Code Cleanup Specialist 🧑🏻‍💻
-    
-- <details>
-    <summary>2021 - 2022 | DDR-Digital 👨🏻‍💻</summary>
-
-    - Fullstack Developer 📚
-
-- <details>
-    <summary>2020 - 2026 | Connex One 👨🏻‍💻</summary>
-
-    - Fullstack Developer ⚛
-    - Backend Developer 🐘
-
-- <details>
-    <summary>2017 - 2018 | European University Institute 🌎</summary>
-
-    - Technical Support Officer ⚙
-
-- <details>
-    <summary>2014 - 2015 | Citizens Advice Bureau 🌎</summary>
-
-    - Technical Support Engineer ⚙
-    - MINTED Frontend Developer ♨
+- Software Architect 🏗️
+- Senior Fullstack Developer 📚
+- Team Lead (Development) 👤
+- Code Cleanup Specialist 🧑🏻‍💻
 
 </details>
-    
+</li>
+<li>
+<details>
+    <summary>2021 - 2022 | DDR-Digital 👨🏻‍💻</summary>
+
+- Fullstack Developer 📚
+
+</details>
+</li>
+<li>
+<details>
+    <summary>2020 - 2026 | Connex One 👨🏻‍💻</summary>
+
+- Fullstack Developer ⚛
+- Backend Developer 🐘
+
+</details>
+</li>
+<li>
+<details>
+    <summary>2017 - 2018 | European University Institute 🌎</summary>
+
+- Technical Support Officer ⚙
+
+</details>
+</li>
+<li>
+<details>
+    <summary>2014 - 2015 | Citizens Advice Bureau 🌎</summary>
+
+- Technical Support Engineer ⚙
+- MINTED Frontend Developer ♨
+
+</details>
+</li>
+</ul>
+
+</details>
+
 <details>
     <summary>Awards</summary>
 
-- <details>
+<ul>
+<li>
+<details>
     <summary>TicketMaster Award</summary>
 
-    - Issued: 17th December 2021
-    - Issuer: Connex One
-    
-    - <details>
-        <summary>View</summary>
+- Issued: 17th December 2021
+- Issuer: Connex One
 
-        <img src="./assets/images/lukemccann_2021-12-17_TicketMaster_Award.jpg" alt="drawing" width="200" />
+<img src="./assets/images/lukemccann_2021-12-17_TicketMaster_Award.jpg" alt="TicketMaster Award" width="200" />
 
 </details>
+</li>
+</ul>
 
 </details>
 
 <hr>
 
-### Listening To 🎧
+### `~/stack`
 
-[![Spotify](https://novatorem-code-of-the-crescent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
-<hr>
-
-### Connect with me:
-
-<!-- [<img align="left" alt="planetdebug.tech" style="padding: 5px;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Luke McCann | LinkedIn" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Luke McCann | Steam" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-<!-- [<img align="left" alt="Luke McCann | Discord" style="padding: 5px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
-
-<br />
-<br />
-
-### Languages & Frameworks
+#### Languages & Frameworks
 
 <p align="left">
   <img alt="PHP" height="32" hspace="6" src="./assets/images/php.png" />
@@ -141,7 +173,7 @@
   <img alt="OpenAPI" height="32" hspace="6" src="./assets/images/OpenAPI_Pantone-300x80.png" />
 </p>
 
-### Tools
+#### Tools
 
 <p align="left">
   <img alt="Node.js" height="32" hspace="6" src="./assets/images/nodejs.png" />
@@ -185,14 +217,14 @@
   <img alt="Obsidian" height="32" hspace="6" src="./assets/images/obsidian-2023-seeklogo.png" />
 </p>
 
-### Cloud Platforms
+#### Cloud Platforms
 
 <p align="left">
   <img alt="AWS" height="32" hspace="6" src="./assets/images/AWS.png" />
   <img alt="Azure" height="32" hspace="6" src="./assets/images/Azure.png" />
 </p>
 
-### Operating Systems
+#### Operating Systems
 
 <p align="left">
   <img alt="Arch Linux" height="32" hspace="6" src="./assets/images/archlinux_logo_icon_167835.ico" />
@@ -201,7 +233,7 @@
   <img alt="Windows" height="32" hspace="6" src="./assets/images/windows.png" />
 </p>
 
-### AI Tools
+#### AI Tools
 
 <p align="left">
   <img alt="Claude" height="32" hspace="6" src="./assets/images/claude-color.png" />
@@ -209,40 +241,35 @@
   <img alt="ChatGPT" height="32" hspace="6" src="./assets/images/chatgpt-50.png" />
 </p>
 
-### Engines
+#### Engines
 
 <p align="left">
   <img alt="Unity" height="32" hspace="6" src="./assets/images/unity.png" />
   <img alt="Unreal" height="32" hspace="6" src="./assets/images/unreal.png" />
 </p>
 
-<br />
-
 <hr>
+
+### `~/stats`
+
 <div align="center">
 
-<br />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=B7E94C" alt="Luke's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Luke's GitHub streak" />
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=blue-green)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeMcCann&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=B7E94C&langs_count=10" alt="Luke's top languages" />
 
 </div>
 
 <br />
 
-<!-- <details>
+<div align="center">
 
-<summary> ⚡ Recent Activity</summary> -->
+![snake animation](https://raw.githubusercontent.com/LukeMcCann/LukeMcCann/output/github-contribution-grid-snake.svg)
 
-<!--START_SECTION:activity-->
+</div>
 
-<!--END_SECTION:activity-->
+<hr>
 
-<!-- </details> -->
-
-<hr> 
-
-[website]: https://planetdebug.tech
 [linkedin]: https://www.linkedin.com/in/lukemccann-engineering/
 [steam]: https://steamcommunity.com/id/Developer-LukeMcCann/
-
-[valheim]: https://server.nitrado.net/eng/toplist/view/8020761
