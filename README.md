@@ -180,6 +180,9 @@
 <p align="left">
   <img alt="DBeaver" height="32" hspace="6" src="./assets/images/dbeaver.png" />
   <img alt="Jupyter" height="32" hspace="6" src="./assets/images/jupyter.png" />
+  <img alt="Vim" height="32" hspace="6" src="./assets/images/vim.png" />
+  <img alt="Neovim" height="32" hspace="6" src="./assets/images/neovim-seeklogo.png" />
+  <img alt="Obsidian" height="32" hspace="6" src="./assets/images/obsidian-2023-seeklogo.png" />
 </p>
 
 ### Cloud Platforms
