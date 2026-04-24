@@ -254,10 +254,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=B7E94C" alt="Luke's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Luke's GitHub streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeMcCann&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=B7E94C&langs_count=10" alt="Luke's top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF" alt="Luke's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=0D1117&stroke=AEEBFF&ring=AEEBFF&fire=AEEBFF&currStreakLabel=AEEBFF&currStreakNum=AEEBFF&sideLabels=AEEBFF&sideNums=AEEBFF&dates=AEEBFF" alt="Luke's GitHub streak" />
 
 </div>
 
