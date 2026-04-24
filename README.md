@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead+%40+Cloudguard_;%3E+Code+Cleanup+Specialist_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead_;%3E+Code+Cleanup+Specialist_)](https://git.io/typing-svg)
 
 ![Profile views](https://hits.sh/github.com/LukeMcCann.svg?style=for-the-badge&label=VISITORS&color=0A0A0A&labelColor=0A0A0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=AEEBFF)][linkedin]
@@ -9,7 +9,7 @@
 </div>
 
 ```bash
-                    -`                    luke@victorytechnology
+                    -`                    luke-mccann@victorytechnology
                    .o+`                   ─────────────────────────────────────────
                   `ooo/                   role     : Software Architect @ Cloudguard
                  `+oooo:                  focus    : System Architecture · Code quality · Team lead
@@ -34,9 +34,10 @@
 
 ### `~/about`
 
-- Software Architect & Senior Fullstack Developer @ **Cloudguard** — leading a development team and shipping production systems.
+- Software Architect & Senior Fullstack Developer — leading a development team and shipping production systems.
+- Microservices & Code Cleanup Specialist
 - 1st-class **MEng Software Engineering** + 1st-class **BSc (Hons) Software Engineering** — University of Huddersfield.
-- On a [continuous learning adventure](https://blue-eyes-frontend-dragon.github.io/Knowledge-Resume/) — the journey doesn't stop at "senior".
+- On a lifelong learning adventure.
 - Passionate about code cleanliness, clean architecture, and blending interests into projects.
 
 <details>
