@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead_;%3E+Code+Cleanup+Specialist_)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead_;%3E+Code+Cleanup+Specialist_">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=155A75&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead_;%3E+Code+Cleanup+Specialist_">
+  </picture>
+</a>
 
 ![Profile views](https://hits.sh/github.com/LukeMcCann.svg?style=for-the-badge&label=VISITORS&color=0A0A0A&labelColor=0A0A0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=AEEBFF)][linkedin]
@@ -261,8 +266,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF" alt="Luke's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=0D1117&stroke=AEEBFF&ring=AEEBFF&fire=AEEBFF&currStreakLabel=AEEBFF&currStreakNum=AEEBFF&sideLabels=AEEBFF&sideNums=AEEBFF&dates=AEEBFF" alt="Luke's GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF">
+  <img height="165" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukeMcCann&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=155A75&icon_color=155A75&text_color=155A75" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=0D1117&stroke=AEEBFF&ring=AEEBFF&fire=AEEBFF&currStreakLabel=AEEBFF&currStreakNum=AEEBFF&sideLabels=AEEBFF&sideNums=AEEBFF&dates=AEEBFF">
+  <img height="165" alt="Luke's GitHub streak" src="https://streak-stats.demolab.com?user=LukeMcCann&theme=merko&hide_border=true&background=FFFFFF&stroke=155A75&ring=155A75&fire=155A75&currStreakLabel=155A75&currStreakNum=155A75&sideLabels=155A75&sideNums=155A75&dates=155A75" />
+</picture>
 
 </div>
 
@@ -270,7 +281,10 @@
 
 <div align="center">
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LukeMcCann&bg_color=0D1117&color=AEEBFF&line=AEEBFF&point=AEEBFF&area=true&area_color=AEEBFF&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LukeMcCann&bg_color=0D1117&color=AEEBFF&line=AEEBFF&point=AEEBFF&area=true&area_color=AEEBFF&hide_border=true">
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LukeMcCann&bg_color=FFFFFF&color=155A75&line=155A75&point=155A75&area=true&area_color=AEEBFF&hide_border=true" />
+</picture>
 
 </div>
 
@@ -278,7 +292,10 @@
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/LukeMcCann/LukeMcCann/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukeMcCann/LukeMcCann/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/LukeMcCann/LukeMcCann/output/github-contribution-grid-snake-light.svg" />
+</picture>
 
 </div>
 

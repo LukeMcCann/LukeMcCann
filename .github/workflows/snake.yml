@@ -21,6 +21,7 @@ jobs:
           github_user_name: LukeMcCann
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#AEEBFF&color_dots=#161B22,#0E3A4F,#1F6E91,#4FA8C7,#AEEBFF
+            dist/github-contribution-grid-snake-light.svg?color_snake=#155A75&color_dots=#ebedf0,#D5EFFB,#A6DDF5,#5BB8E0,#155A75
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
