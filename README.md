@@ -44,12 +44,20 @@
     <summary>Professional Experience</summary>
 
 - <details>
+    <summary>2026 - Present | Cloudguard 🛡️</summary>
+
+    - Software Architect 🏗️
+    - Senior Fullstack Developer 📚
+    - Team Lead (Development) 👤
+    - Code Cleanup Specialist 🧑🏻‍💻
+    
+- <details>
     <summary>2021 - 2022 | DDR-Digital 👨🏻‍💻</summary>
 
     - Fullstack Developer 📚
 
 - <details>
-    <summary>2020 - Present | Connex One 👨🏻‍💻</summary>
+    <summary>2020 - 2026 | Connex One 👨🏻‍💻</summary>
 
     - Fullstack Developer ⚛
     - Backend Developer 🐘
