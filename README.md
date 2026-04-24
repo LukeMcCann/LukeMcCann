@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=50&lines=%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead+%40+Cloudguard_;%3E+Code+Cleanup+Specialist_;%3E+Arch+Linux_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AEEBFF&center=true&vCenter=true&width=620&height=50&lines=%3E+Luke+McCann_;%3E+Software+Engineer_;%3E+Software+Architect_;%3E+Senior+Fullstack+Developer_;%3E+Team+Lead+%40+Cloudguard_;%3E+Code+Cleanup+Specialist_)](https://git.io/typing-svg)
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=LukeMcCann.LukeMcCann&style=for-the-badge&color=00FF41)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41)][linkedin]
-[![Steam](https://img.shields.io/badge/Steam-0A0A0A?style=for-the-badge&logo=steam&logoColor=00FF41)][steam]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=AEEBFF)][linkedin]
+[![Steam](https://img.shields.io/badge/Steam-0A0A0A?style=for-the-badge&logo=steam&logoColor=AEEBFF)][steam]
 
 </div>
 
@@ -12,8 +12,8 @@
                     -`                    luke@victorytechnology
                    .o+`                   ─────────────────────────────────────────
                   `ooo/                   role     : Software Architect @ Cloudguard
-                 `+oooo:                  focus    : Fullstack systems · Code quality · Team lead
-                `+oooooo:                 stack    : TypeScript · React · PHP · Python · Java
+                 `+oooo:                  focus    : System Architecture · Code quality · Team lead
+                `+oooooo:                 stack    : TypeScript · React · Node · Next.js · Python
                 -+oooooo+:                data     : PostgreSQL · MongoDB · MariaDB
               `/:-:++oooo+:               cloud    : AWS · Azure · Docker · Kubernetes
              `/++++/+++++++:              os       : Arch Linux
@@ -25,7 +25,7 @@
        :osssssss/        osssso+++.       $ whoami --verbose
       /ossssssss/        +ssssooo/-       > Architecting fullstack systems & leading dev teams.
     `/ossssso+/:-        -:/+osssso+-     > Obsessing over clean code, sharp boundaries, and shipping.
-   `+sso+:-`                 `.-/+oso:    > Continuously learning — currently deep in Systems Engineering.
+   `+sso+:-`                 `.-/+oso:    > Continuously learning — currently deep into Systems Engineering.
   `++:.                           `-/+/
   .`                                 `/
 ```
