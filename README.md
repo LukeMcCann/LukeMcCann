@@ -41,7 +41,6 @@
 
 - Software Architect & Senior Fullstack Developer — leading a development team and shipping production systems.
 - Microservices & Code Cleanup Specialist
-- 1st-class **MEng Software Engineering** + 1st-class **BSc (Hons) Software Engineering** — University of Huddersfield.
 - On a lifelong learning adventure.
 - Passionate about code cleanliness, clean architecture, and blending interests into projects.
 
@@ -79,7 +78,7 @@
 <ul>
 <li>
 <details open>
-    <summary>2026 - Present | Cloudguard 🛡️</summary>
+    <summary>2025 - Present | Cloudguard 🛡️</summary>
 
 - Software Architect 🏗️
 - Senior Fullstack Developer 📚
@@ -98,7 +97,7 @@
 </li>
 <li>
 <details>
-    <summary>2020 - 2026 | Connex One 👨🏻‍💻</summary>
+    <summary>2020 - 2025 | Connex One 👨🏻‍💻</summary>
 
 - Fullstack Developer ⚛
 - Backend Developer 🐘
