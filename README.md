@@ -134,7 +134,7 @@
     <summary>TicketMaster Award</summary>
 
 - Issued: 17th December 2021
-- Issuer: Connex One
+- Issuer: Connex AI
 
 <img src="./assets/images/lukemccann_2021-12-17_TicketMaster_Award.jpg" alt="TicketMaster Award" width="200" />
 
