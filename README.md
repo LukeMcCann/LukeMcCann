@@ -273,40 +273,6 @@ $ cat ~/.now
 
 <hr>
 
-### `~/projects`
-
-<div align="center">
-
-<a href="https://github.com/Code-of-The-Forbidden-One/TWAK">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Code-of-The-Forbidden-One&repo=TWAK&theme=merko&hide_border=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF">
-    <img alt="TWAK" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Code-of-The-Forbidden-One&repo=TWAK&hide_border=true&bg_color=FFFFFF&title_color=155A75&icon_color=155A75&text_color=155A75" />
-  </picture>
-</a>
-<a href="https://github.com/Number-666-Game-Development/BlocBreaker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Number-666-Game-Development&repo=BlocBreaker&theme=merko&hide_border=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF">
-    <img alt="BlocBreaker" src="https://github-readme-stats.vercel.app/api/pin/?username=Number-666-Game-Development&repo=BlocBreaker&hide_border=true&bg_color=FFFFFF&title_color=155A75&icon_color=155A75&text_color=155A75" />
-  </picture>
-</a>
-
-<a href="https://github.com/Kodriboh/Bjornstad-Endrborinn">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kodriboh&repo=Bjornstad-Endrborinn&theme=merko&hide_border=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF">
-    <img alt="Bjornstad-Endrborinn" src="https://github-readme-stats.vercel.app/api/pin/?username=Kodriboh&repo=Bjornstad-Endrborinn&hide_border=true&bg_color=FFFFFF&title_color=155A75&icon_color=155A75&text_color=155A75" />
-  </picture>
-</a>
-<a href="https://github.com/LukeMcCann/Atari_AssemblyProjects">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LukeMcCann&repo=Atari_AssemblyProjects&theme=merko&hide_border=true&bg_color=0D1117&title_color=AEEBFF&icon_color=AEEBFF&text_color=AEEBFF">
-    <img alt="Atari_AssemblyProjects" src="https://github-readme-stats.vercel.app/api/pin/?username=LukeMcCann&repo=Atari_AssemblyProjects&hide_border=true&bg_color=FFFFFF&title_color=155A75&icon_color=155A75&text_color=155A75" />
-  </picture>
-</a>
-
-</div>
-
-<hr>
-
 ### `~/stats`
 
 <div align="center">
